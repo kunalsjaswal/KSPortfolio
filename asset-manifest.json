@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/PORTFOLIO_KS/static/css/main.545d20c7.css",
-    "main.js": "/PORTFOLIO_KS/static/js/main.1a250e96.js",
-    "static/js/453.a0c45b80.chunk.js": "/PORTFOLIO_KS/static/js/453.a0c45b80.chunk.js",
-    "static/media/Profile.png": "/PORTFOLIO_KS/static/media/Profile.d7ec048dd0187c78b8f6.png",
-    "static/media/project-awakened-tablet.png": "/PORTFOLIO_KS/static/media/project-awakened-tablet.4752ce9de787e09e6c0e.png",
-    "static/media/project-awakened-desktop.png": "/PORTFOLIO_KS/static/media/project-awakened-desktop.4e8e0b8df93514d0b01b.png",
-    "static/media/project-builder-hut-desktop.png": "/PORTFOLIO_KS/static/media/project-builder-hut-desktop.8cb64d4af9545b985320.png",
-    "static/media/project-flight-desktop.png": "/PORTFOLIO_KS/static/media/project-flight-desktop.107f5013aa50f621b482.png",
-    "static/media/project-builder-hut-tablet.png": "/PORTFOLIO_KS/static/media/project-builder-hut-tablet.f0bcd8f0fa12ea72aafe.png",
-    "static/media/project-supscription-desktop.png": "/PORTFOLIO_KS/static/media/project-supscription-desktop.f6e31db14980f46daca1.png",
-    "static/media/project-flight-tablet.png": "/PORTFOLIO_KS/static/media/project-flight-tablet.f77bc582c121fcb5a5c9.png",
-    "static/media/facebook.png": "/PORTFOLIO_KS/static/media/facebook.b6add518be29f36282eb.png",
-    "static/media/project-supscription-tablet.png": "/PORTFOLIO_KS/static/media/project-supscription-tablet.a46108838bb7f0fcc151.png",
-    "index.html": "/PORTFOLIO_KS/index.html",
-    "main.545d20c7.css.map": "/PORTFOLIO_KS/static/css/main.545d20c7.css.map",
-    "main.1a250e96.js.map": "/PORTFOLIO_KS/static/js/main.1a250e96.js.map",
-    "453.a0c45b80.chunk.js.map": "/PORTFOLIO_KS/static/js/453.a0c45b80.chunk.js.map"
+    "main.css": "/KSPortfolio/static/css/main.545d20c7.css",
+    "main.js": "/KSPortfolio/static/js/main.e1e4e9a7.js",
+    "static/js/453.a0c45b80.chunk.js": "/KSPortfolio/static/js/453.a0c45b80.chunk.js",
+    "static/media/Profile.png": "/KSPortfolio/static/media/Profile.d7ec048dd0187c78b8f6.png",
+    "static/media/project-awakened-tablet.png": "/KSPortfolio/static/media/project-awakened-tablet.4752ce9de787e09e6c0e.png",
+    "static/media/project-awakened-desktop.png": "/KSPortfolio/static/media/project-awakened-desktop.4e8e0b8df93514d0b01b.png",
+    "static/media/project-builder-hut-desktop.png": "/KSPortfolio/static/media/project-builder-hut-desktop.8cb64d4af9545b985320.png",
+    "static/media/project-flight-desktop.png": "/KSPortfolio/static/media/project-flight-desktop.107f5013aa50f621b482.png",
+    "static/media/project-builder-hut-tablet.png": "/KSPortfolio/static/media/project-builder-hut-tablet.f0bcd8f0fa12ea72aafe.png",
+    "static/media/project-supscription-desktop.png": "/KSPortfolio/static/media/project-supscription-desktop.f6e31db14980f46daca1.png",
+    "static/media/project-flight-tablet.png": "/KSPortfolio/static/media/project-flight-tablet.f77bc582c121fcb5a5c9.png",
+    "static/media/facebook.png": "/KSPortfolio/static/media/facebook.b6add518be29f36282eb.png",
+    "static/media/project-supscription-tablet.png": "/KSPortfolio/static/media/project-supscription-tablet.a46108838bb7f0fcc151.png",
+    "index.html": "/KSPortfolio/index.html",
+    "main.545d20c7.css.map": "/KSPortfolio/static/css/main.545d20c7.css.map",
+    "main.e1e4e9a7.js.map": "/KSPortfolio/static/js/main.e1e4e9a7.js.map",
+    "453.a0c45b80.chunk.js.map": "/KSPortfolio/static/js/453.a0c45b80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.545d20c7.css",
-    "static/js/main.1a250e96.js"
+    "static/js/main.e1e4e9a7.js"
   ]
 }
