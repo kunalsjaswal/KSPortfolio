@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/KSPortfolio/static/css/main.545d20c7.css",
-    "main.js": "/KSPortfolio/static/js/main.e1e4e9a7.js",
+    "main.js": "/KSPortfolio/static/js/main.9fb0bcd4.js",
     "static/js/453.a0c45b80.chunk.js": "/KSPortfolio/static/js/453.a0c45b80.chunk.js",
-    "static/media/Profile.png": "/KSPortfolio/static/media/Profile.d7ec048dd0187c78b8f6.png",
+    "static/media/Profile2.jpg": "/KSPortfolio/static/media/Profile2.521faf327a4905835977.jpg",
     "static/media/project-awakened-tablet.png": "/KSPortfolio/static/media/project-awakened-tablet.4752ce9de787e09e6c0e.png",
     "static/media/project-awakened-desktop.png": "/KSPortfolio/static/media/project-awakened-desktop.4e8e0b8df93514d0b01b.png",
     "static/media/project-builder-hut-desktop.png": "/KSPortfolio/static/media/project-builder-hut-desktop.8cb64d4af9545b985320.png",
@@ -15,11 +15,11 @@
     "static/media/project-supscription-tablet.png": "/KSPortfolio/static/media/project-supscription-tablet.a46108838bb7f0fcc151.png",
     "index.html": "/KSPortfolio/index.html",
     "main.545d20c7.css.map": "/KSPortfolio/static/css/main.545d20c7.css.map",
-    "main.e1e4e9a7.js.map": "/KSPortfolio/static/js/main.e1e4e9a7.js.map",
+    "main.9fb0bcd4.js.map": "/KSPortfolio/static/js/main.9fb0bcd4.js.map",
     "453.a0c45b80.chunk.js.map": "/KSPortfolio/static/js/453.a0c45b80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.545d20c7.css",
-    "static/js/main.e1e4e9a7.js"
+    "static/js/main.9fb0bcd4.js"
   ]
 }
