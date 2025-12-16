@@ -2,7 +2,7 @@ import React from "react";
 import { ProfileContainerStyle } from "./ProfileStyle";
 import { ProfileDetails } from "../../common/constants/ProfileConstants";
 import { Chip } from "@mui/material";
-import profileImg from "../../common/assets/Profile.png";
+import profileImg from "../../common/assets/Profile2.jpg";
 
 
 const Profile = () => {

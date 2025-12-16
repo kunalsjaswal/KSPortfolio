@@ -40,20 +40,11 @@ export const ProfileContainerStyle = styled.div`
 
   .right-content {
     position: relative;
-    .bg {
-      position: absolute;
-      width: 80%;
-      height: 80%;
-      bottom: 0.5%;
-      background-color: ${profile_colors.image_bg_gray};
-      z-index: 2;
-
-    }
-
     img {
       position: relative;
-      width: 80%;
+      width: 75%;
       z-index: 3;
+      border-radius: 5px;
     }
   }
 
